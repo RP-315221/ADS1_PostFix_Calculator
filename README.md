@@ -1,6 +1,6 @@
 # PostFix Calculator
 This repository contains a Java implementation of a postfix calculator. Postfix notation, also known as Reverse Polish Notation (RPN), is a mathematical notation in which operators follow their operands.
-
+![Postfix image](images/PostFix_Image.png)
 ## Table of contents
 - [PostFix_Calculator](#postfix-calculator)
   - [Table of Contents](#table-of-contents)
@@ -32,6 +32,6 @@ Upon launching the application, the system will request a user for an expression
 * 8 4 / => 2
 * 7 3 - => 4
 * 10 3 % => 1
-
+Once the result is displayed, the system will ask if a user wishes to write another expression.
 ##License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code for your purposes.
