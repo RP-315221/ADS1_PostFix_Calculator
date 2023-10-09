@@ -20,6 +20,7 @@ compile the code and run src/main/java/org/example/Main.java application.
 
 ## Usage
 ![Postfix image](images/PostFix_Image.png)
+
 The following features are provided in the project:
 * Evaluate postfix expressions without the need for parentheses.
 * Handles basic arithmetic operators: +, -, *, /, %.
