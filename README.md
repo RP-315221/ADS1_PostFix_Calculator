@@ -33,6 +33,7 @@ Upon launching the application, the system will request a user for an expression
 * 8 4 / => 2
 * 7 3 - => 4
 * 10 3 % => 1
+
 Once the result is displayed, the system will ask if a user wishes to write another expression.
 ##License
 This project is licensed under the MIT License. You are free to use, modify, and distribute this code for your purposes.
